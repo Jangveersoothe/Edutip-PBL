@@ -1,2 +1,2 @@
 # Edutip-PBL
-I along with my team of 3 members have developed this website using java html
+I along with my team of 3 members have developed this website using javascript html
