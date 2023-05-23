@@ -1,5 +1,5 @@
 ## EduTip (E-learning Website)
-An educational website for students and programmers 😊😊😊  
+An educational website for students and programmers.
 
 ![](pcView.png)
 
@@ -17,7 +17,7 @@ Interview questions for students who are preparing for placements.
 ✔ Projects – in this I have added a project section where students from schools and  
    colleges can get projects for final year and for Class 12th Board Projects.  
    
-It is completely responsive website, to provide smooth experience...😎  
+It is completely responsive website, to provide smooth experience...
 
 ![](mobileView.png)  
 
